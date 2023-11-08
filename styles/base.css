@@ -11,7 +11,7 @@ body {
 
 /*mobile-------*/
 header {
-	background-color: rgb(127, 185, 230);
+	background-color: rgb(161, 197, 224);
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -23,7 +23,7 @@ h1 {
 }
 
 nav {
-	background-color: #4d98c1;
+	background-color: #3b82a8;
 }
 
 nav ul {
@@ -32,7 +32,7 @@ nav ul {
 
 nav a {
 	display: block;
-	color: #000000;
+	color: #f7f9ee;
 	text-align: center;
 	padding: .5rem;
 	text-decoration: none;
@@ -43,7 +43,7 @@ nav a:hover {
 }
 
 .active {
-	background-color: rgba(0,0,0,0.2);
+	background-color: rgba(7, 23, 29, 0.2);
 }
 
 /*main--------*/
